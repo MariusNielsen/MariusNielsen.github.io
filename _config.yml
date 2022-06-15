@@ -3,6 +3,3 @@ title: Marius Nielsen's Personal Website
 description: This is my personal website here you find my academic writings, email adress and so on.
 logo: image.jpeg
 google_analytics: G-LLHD5EMBQB
-markdown: kramdown
-kramdown:
-    math_engine: katex
