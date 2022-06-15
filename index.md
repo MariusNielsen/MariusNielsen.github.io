@@ -18,9 +18,8 @@ Please feel free to contact me on marius1811 (at) hotmail (dot) com
 
 ## Writing
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- test [link](/main.pdf)
+- test2
 
 ### CV
 
