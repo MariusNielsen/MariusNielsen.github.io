@@ -19,5 +19,3 @@ Please feel free to contact me on marius1811 (at) hotmail (dot) com
 # CV
 
 - _[CV](/cv.pdf)_. 
-
-$$ E_{pq}^2=H_p(F,H_q(B))\Rightarrow H_{p+q}(E)$$
