@@ -9,6 +9,10 @@
 
 ## Math questions:
 - In the $Q$-shaped category is it true that perfect objects and compact objects coincide?
-- For $T$ a $tt$-category, and $p\in \mathrm{Spc}(T)$ is it true that $\mathrm{End}(1)_p=\mathrm{End}(1_{p}}$?
+- For $T$ a $tt$-category, and $p\in \mathrm{Spc}(T)$ is it true that $\mathrm{End}(1)\_p=\mathrm{End}(1\_{p}}$?
 - For $T$ a $tt$-category, is it true that the stalks of $\mathcal{O}$ is given by $T/p$?
-- Can we explicitly compute the comparison map? Is it a lift along $\pi_0$ of Balmer's comparison?
+- Can we explicitly compute the comparison map? Is it a lift along $\pi_0$ of Balmer's comparison? This is my life
+- Explore what module $\mathrm{Mod}\to \mathrm{CAlg}$ cocartesian fibration gives us in case of $tt$-categories
+- Explore how Kan extended the presheaf I wrote down is. (Is it right Kan extended from values on complements of $\mathrm{supp}(x)$?). Look at 2.2.1.1 in HA.
+- Compute the stalks of tt-sheaf
+- Compute the values of distinguished opens on tt-sheaf.

@@ -1,1 +1,0 @@
-/Users/mvnielse/OneDrive - NTNU/NTNU/PhD-NTNU/Notes/notes.md
