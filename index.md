@@ -3,7 +3,7 @@ layout: default
 ---
 # Who am I
 
-I am a first-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. My main interests are (higher) category theory, stable and chromatic homotopy theory and homological algebra.
+I am a first-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. My main interests are (higher) category theory, stable and homological algebra. These days I am also very interested in spectral Mackey functors.
 
 Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
