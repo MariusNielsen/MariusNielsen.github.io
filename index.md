@@ -3,7 +3,7 @@ layout: default
 ---
 # Who am I
 
-I am a second-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. My main interests are (higher) category theory, stable homotopy theory and homological algebra. I have also recently become interested in representation theory and equivariant homotopy.
+I am a second-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with geometry.
 
 Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
@@ -19,4 +19,4 @@ Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
 # CV
 
-- _[CV](/cv.pdf)_. 
+- _[CV](/CV_2024.pdf)_. 
