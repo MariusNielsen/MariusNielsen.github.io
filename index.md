@@ -7,6 +7,9 @@ I am a third-year PhD-student at the math department at NTNU in Trondheim under 
 
 Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
+# Papers
+- _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with Christoph Winges
+
 # Expository writing
 
 - _[Chromatic homotopy theory, from the perspective of formal groups ](/FormalGroups.pdf)_. Written notes I did as part of a PhD level seminar course I did at NTNU spring 2023. These notes acted as talking points for the seminar I gave as my exam. 
