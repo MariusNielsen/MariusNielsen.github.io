@@ -22,4 +22,4 @@ Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
 # CV
 
-- _[CV](/CV_2024.pdf)_. 
+- _[CV](/CV_2025.pdf)_. 
