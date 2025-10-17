@@ -3,7 +3,7 @@ layout: default
 ---
 # Who am I
 
-I am a forth-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with spectral algebraic geometry and synthetic spectra.
+I am a fourth-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with spectral algebraic geometry and synthetic spectra.
 
 Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
