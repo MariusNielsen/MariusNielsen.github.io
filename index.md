@@ -5,11 +5,16 @@ layout: default
 
 I am a fourth-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with spectral algebraic geometry and synthetic spectra.
 
+Starting September 2026, I will join the algebraic topology group at FU Berlin as a postdoc.
+
 Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
+# Projects
+- _On the Geometrization of synthetic spectra_. Draft available upon request.
+
 # Papers
-- _[The formal spectrum of a tensor-triangulated category](https://arxiv.org/abs/2602.20835)_. Joint with [Drew Heard](https://drewkh.folk.ntnu.no/).
-- _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with [Christoph Winges](https://homepages.uni-regensburg.de/~wic42659/).
+- _[The formal spectrum of a tensor-triangulated category](https://arxiv.org/abs/2602.20835)_. Joint with [Drew Heard](https://drewkh.folk.ntnu.no/), submitted.
+- _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with [Christoph Winges](https://homepages.uni-regensburg.de/~wic42659/), accepted for publication in Algebraic and Geometric Topology.
 
 # Expository writing
 
