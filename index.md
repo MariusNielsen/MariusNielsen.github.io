@@ -11,8 +11,10 @@ Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 
 # Projects
 - _On the Geometrization of synthetic spectra_. Draft available upon request.
+- _The Picard group of excisive functors_. 
 
 # Papers
+- _[Hopfological algebra, revisited](https://arxiv.org/abs/2606.19485)_. Joint with [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home) and [Gustavo Jasso](https://gustavo.jasso.info/).
 - _[The formal spectrum of a tensor-triangulated category](https://arxiv.org/abs/2602.20835)_. Joint with [Drew Heard](https://drewkh.folk.ntnu.no/), submitted.
 - _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with [Christoph Winges](https://homepages.uni-regensburg.de/~wic42659/), accepted for publication in Algebraic and Geometric Topology.
 
