@@ -3,7 +3,7 @@ layout: default
 ---
 # Who am I
 
-I am a fourth-year PhD-student at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with spectral algebraic geometry and synthetic spectra.
+I recently obtained my PhD at the math department at NTNU in Trondheim under supervision of Drew Heard. I am broadly interested in stable homotopy theory, tensor triangulated geometry and their relationship with spectral algebraic geometry and synthetic spectra.
 
 Starting September 2026, I will join the algebraic topology group at FU Berlin as a postdoc.
 
@@ -17,6 +17,9 @@ Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
 - _[Hopfological algebra, revisited](https://arxiv.org/abs/2606.19485)_. Joint with [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home) and [Gustavo Jasso](https://gustavo.jasso.info/).
 - _[The formal spectrum of a tensor-triangulated category](https://arxiv.org/abs/2602.20835)_. Joint with [Drew Heard](https://drewkh.folk.ntnu.no/), submitted.
 - _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with [Christoph Winges](https://homepages.uni-regensburg.de/~wic42659/), accepted for publication in Algebraic and Geometric Topology.
+
+# Thesis
+- _[Geometric methods in algebraic K-theory, tensor-triangular geometry and synthetic homotopy theory](/thesis-print.pdf)_. The Print version of my thesis.
 
 # Expository writing
 
