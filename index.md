@@ -7,7 +7,7 @@ I recently obtained my PhD at the math department at NTNU in Trondheim under sup
 
 Starting September 2026, I will join the algebraic topology group at FU Berlin as a postdoc.
 
-Please feel free to contact me on marius.v.b.nielsen (at) ntnu (dot) no
+Please feel free to contact me on marius (dot) nielsen (at) fu-berlin (dot) de
 
 # Projects
 - _On the Geometrization of synthetic spectra_. Draft available upon request.
