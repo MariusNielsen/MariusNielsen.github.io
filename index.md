@@ -19,7 +19,7 @@ Please feel free to contact me on marius (dot) nielsen (at) fu-berlin (dot) de
 - _[The presentable stable envelope of an exact category](https://arxiv.org/abs/2506.02598)_. Joint with [Christoph Winges](https://homepages.uni-regensburg.de/~wic42659/), accepted for publication in Algebraic and Geometric Topology.
 
 # Thesis
-- _[Geometric methods in algebraic K-theory, tensor-triangular geometry and synthetic homotopy theory](/thesis-print.pdf)_. The Print version of my thesis.
+- _[Geometric methods in algebraic K-theory, tensor-triangular geometry and synthetic homotopy theory](/thesis-print-version.pdf)_. The Print version of my thesis.
 
 # Expository writing
 
